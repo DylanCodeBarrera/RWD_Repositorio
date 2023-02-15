@@ -1,9 +1,32 @@
 html {
     box-sizing: border-box;
 }
-  *, *:before, *:after {
+*, 
+*:before, 
+*:after {
     box-sizing: inherit;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
 }
 img{
     max-width: 100%;
+}
+h1{
+    font-size: 4rem;
+}
+.contenedor{
+    margin: 0 auto;
+    max-width: 120rem;
+    background-color: red;
+}
+.entrada a{
+    display: inline-block;
+    background-color: #2196F3;
+    color: white;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
 }
