@@ -42,22 +42,22 @@ h1{
 }
 @media (min-width: 768px){
     body{
-        background-color: aqua;
+        background-color: rgb(223, 26, 101);
     }
 }
 @media (min-width: 1140px){
     body{
-        background-color: #aeca10;
+        background-color: rgb(44, 51, 155);
     }
 }
-@media (min-width: 1400px){
+@media (min-width: 1200px){
     body{
-        background-color: #c04d18;
+        background-color: rgb(65, 180, 19);
     }
     .entrada img{
         display: inline;
     }
     .contenedor{
-        background-color: #3f3835;
+        background-color: rgb(155, 44, 44);
     }
 }
